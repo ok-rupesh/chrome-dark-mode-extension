@@ -31,7 +31,7 @@ dark-mode-transformer/
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/kalyug-kali/chrome-dark-mode-extension.git
+   git clone https://github.com/ok-rupesh/chrome-dark-mode-extension.git
    
 2. Open Chrome and go to chrome://extensions
 
